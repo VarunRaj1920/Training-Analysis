@@ -1,0 +1,2 @@
+<img width="1091" alt="Screenshot 2023-06-20 at 2 38 58 PM" src="https://github.com/VarunRaj1920/Training-Analysis/assets/101633273/9ebd9d99-7d11-4973-9dfe-d9cfb093e98e">
+This is a data science project which has a very crude and a small dataset. The data mainly focusses on analysis of 'Training of workers in a firm' . It is a small dataset so drawing out prominent trends was difficult but still I have tried to analyse trends against the parameters such as work experience and age .
